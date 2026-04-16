@@ -73,7 +73,7 @@ mov eax, knowledge
 xor ignorance, ignorance
 push curiosity
 call learn_everything
-```
+
 
 ---
 
