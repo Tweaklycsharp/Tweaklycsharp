@@ -39,6 +39,6 @@
 
 <br/>
 
-![Streak](https://streak-stats.demolab.com?user=TON_USERNAME&theme=transparent&hide_border=true&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=cccccc&sideNums=cccccc&dates=666666)
+![Streak](https://streak-stats.demolab.com?user=Tweaklycsharp&theme=transparent&hide_border=true&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=cccccc&sideNums=cccccc&dates=666666)
 
 </div>
