@@ -10,7 +10,7 @@ md
 
 ## 🧠 About Me
 
-```cpp
+cpp
 class Tweaklycsharp {
 public:
     string focus = "Reverse Engineering & Cybersecurity";
@@ -18,7 +18,7 @@ public:
     vector<string> web = {"HTML", "CSS"};
     string mindset = "Break. Understand. Improve.";
 };
-```
+
 
 🔎 Passionné par le **reverse engineering**, l’analyse binaire et la cybersécurité  
 🔐 Pentester orienté exploitation & compréhension bas niveau  
