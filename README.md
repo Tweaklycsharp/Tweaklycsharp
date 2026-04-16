@@ -1,44 +1,89 @@
-<div align="center">
+```md
+<h1 align="center">⚡ Tweaklycsharp ⚡</h1>
+<h3 align="center">Reverse Engineering • Pentester • Developer</h3>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1000&color=888888&center=true&vCenter=true&width=600&lines=//+reverse+engineer+%C2%B7+pentester+%C2%B7+developer)
-
-# appareil
-
-`security research · low-level systems · frontend craftsmanship`
-
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Reverse+Engineering+Enthusiast;Pentester+%F0%9F%94%92;C%2B%2B+%7C+C%23+%7C+Go+Developer;JS+%7C+Lua+%7C+Luau;UI+%2F+UX+Designer;Always+Learning+New+Things+%F0%9F%9A%80" />
+</p>
 
 ---
 
-![Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![Snake](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+## 🧠 About Me
+
+```cpp
+class Tweaklycsharp {
+public:
+    string focus = "Reverse Engineering & Cybersecurity";
+    vector<string> languages = {"C++", "C#", "Go", "JavaScript", "Lua", "Luau"};
+    vector<string> web = {"HTML", "CSS"};
+    string mindset = "Break. Understand. Improve.";
+};
+```
+
+🔎 Passionné par le **reverse engineering**, l’analyse binaire et la cybersécurité  
+🔐 Pentester orienté exploitation & compréhension bas niveau  
+💻 Développeur backend & systèmes  
+🎨 UI/UX propre, minimaliste et efficace  
 
 ---
 
-**focus**
+## 🛠️ Tech Stack
 
-| | |
-|:--|:--|
-| security | reverse engineering · pentest · deobfuscation · binary analysis |
-| systems | C++ · C# · Golang · memory manipulation |
-| scripting | Lua · Luau · automation · Discord bots |
-| frontend | JS · HTML/CSS · UI/UX |
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,cs,go,js,lua,html,css" />
+</p>
 
----
-
-**langages**
-
-`JavaScript` `Lua` `Luau` `C++` `C#` `Golang` `HTML` `CSS`
+### 🧰 Tools & Environment
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,vscode,visualstudio" />
+</p>
 
 ---
 
-<div align="center">
+## 📊 GitHub Stats
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Tweaklycsharp&show_icons=true&theme=transparent&hide_border=true&title_color=888&text_color=888&icon_color=888" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tweaklycsharp&layout=compact&theme=transparent&hide_border=true&title_color=888&text_color=888" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tweaklycsharp&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tweaklycsharp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165">
+</p>
 
-<br/>
+---
 
-![Streak](https://streak-stats.demolab.com?user=Tweaklycsharp&theme=transparent&hide_border=true&ring=888888&fire=888888&currStreakLabel=888888&sideLabels=888888&currStreakNum=cccccc&sideNums=cccccc&dates=666666)
+## 🔥 Activity Graph
 
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tweaklycsharp&theme=tokyo-night&hide_border=true&bg_color=0d1117"/>
+</p>
+
+---
+
+## 💀 Reverse Engineering Mode
+
+```asm
+mov eax, knowledge
+xor ignorance, ignorance
+push curiosity
+call learn_everything
+```
+
+---
+
+## 🌌 Philosophy
+
+> "Understand the system.  
+> Break the system.  
+> Rebuild it better."
+
+---
+
+## 📫 Contact
+
+- GitHub: **https://github.com/Tweaklycsharp**
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Tweaklycsharp&color=blueviolet&style=flat-square">
+</p>
+```
