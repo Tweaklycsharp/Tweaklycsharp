@@ -87,15 +87,3 @@ call learn_everything
   <img src="https://komarev.com/ghpvc/?username=Tweaklycsharp&color=blueviolet&style=flat-square">
 </p>
 ```
-
----
-
-Si tu veux, je peux aussi te faire :
-
-- 🖤 Une version **dark hacker ultra stylée**
-- 🔥 Une version **plus minimaliste et clean**
-- 🧠 Une version **100% orientée reverse engineering**
-- 🎮 Une version plus orientée **Lua / Luau (Roblox style)**
-- 🐍 Une version avec animation snake contribution
-
-Tu veux quel style ? 😈
