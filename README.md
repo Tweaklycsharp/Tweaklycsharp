@@ -10,13 +10,21 @@ md
 
 ## 🧠 About Me
 
-cpp
+```cpp
 class Tweaklycsharp {
 public:
-    string focus = "Reverse Engineering & Cybersecurity";
-    vector<string> languages = {"C++", "C#", "Go", "JavaScript", "Lua", "Luau"};
-    vector<string> web = {"HTML", "CSS"};
-    string mindset = "Break. Understand. Improve.";
+    std::string focus = "Reverse Engineering & Cybersecurity";
+
+    std::vector<std::string> languages = {
+        "C++", "C#", "Go",
+        "JavaScript", "Lua", "Luau"
+    };
+
+    std::vector<std::string> web = {
+        "HTML", "CSS"
+    };
+
+    std::string mindset = "Break. Understand. Improve.";
 };
 
 
