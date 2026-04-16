@@ -1,4 +1,9 @@
-md
+Voici un **README.md** stylé, animé et propre** pour ton profil GitHub 🔥  
+Tu peux le copier/coller directement dans ton repo spécial `Tweaklycsharp/Tweaklycsharp`.
+
+---
+
+```md
 <h1 align="center">⚡ Tweaklycsharp ⚡</h1>
 <h3 align="center">Reverse Engineering • Pentester • Developer</h3>
 
@@ -13,20 +18,12 @@ md
 ```cpp
 class Tweaklycsharp {
 public:
-    std::string focus = "Reverse Engineering & Cybersecurity";
-
-    std::vector<std::string> languages = {
-        "C++", "C#", "Go",
-        "JavaScript", "Lua", "Luau"
-    };
-
-    std::vector<std::string> web = {
-        "HTML", "CSS"
-    };
-
-    std::string mindset = "Break. Understand. Improve.";
+    string focus = "Reverse Engineering & Cybersecurity";
+    vector<string> languages = {"C++", "C#", "Go", "JavaScript", "Lua", "Luau"};
+    vector<string> web = {"HTML", "CSS"};
+    string mindset = "Break. Understand. Improve.";
 };
-
+```
 
 🔎 Passionné par le **reverse engineering**, l’analyse binaire et la cybersécurité  
 🔐 Pentester orienté exploitation & compréhension bas niveau  
@@ -73,7 +70,7 @@ mov eax, knowledge
 xor ignorance, ignorance
 push curiosity
 call learn_everything
-
+```
 
 ---
 
@@ -95,3 +92,15 @@ call learn_everything
   <img src="https://komarev.com/ghpvc/?username=Tweaklycsharp&color=blueviolet&style=flat-square">
 </p>
 ```
+
+---
+
+Si tu veux, je peux aussi te faire :
+
+- 🖤 Une version **dark hacker ultra stylée**
+- 🔥 Une version **plus minimaliste et clean**
+- 🧠 Une version **100% orientée reverse engineering**
+- 🎮 Une version plus orientée **Lua / Luau (Roblox style)**
+- 🐍 Une version avec animation snake contribution
+
+Tu veux quel style ? 😈
