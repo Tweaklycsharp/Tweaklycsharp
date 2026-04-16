@@ -58,7 +58,7 @@ public:
 
 ---
 
-## 💀 Reverse Engineering Mode
+## 💀 Reverse Engineering
 
 ```asm
 mov eax, knowledge
